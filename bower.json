@@ -1,0 +1,19 @@
+{
+  "name": "rotcader",
+  "main": "rotcader.js",
+  "homepage": "https://github.com/ensphere/rotcader",
+  "authors": [
+    "Luke Snowden"
+  ],
+  "description": "little something",
+  "license": "MIT",
+  "require" : {
+    "jquery" : "*"
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
